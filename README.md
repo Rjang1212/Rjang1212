@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Jangir
 - 👀  I'm a backend developer with experience in Java and Spring Boot, passionate about building scalable and efficient systems.
-- 🌱 Currently learning React.js – because adding a new skill never hurts, right?
+- 🌱 Currently learning Kafka – because adding a new skill never hurts, right?
 - 💞️ I'm open to collaborating on exciting open source projects and exploring remote opportunities that align with my interests.
 - 📫 You can reach me on:
   -  [LinkedIn](https://www.linkedin.com/in/rohit-jangir) 
